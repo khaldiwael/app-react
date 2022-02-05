@@ -1,0 +1,15 @@
+.form1{
+    width: 50%;
+    margin: auto;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+    color:rebeccapurple
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
